@@ -1,0 +1,58 @@
+body {
+    background-color: rgb(255, 240, 229);
+
+}
+
+.nav-link {
+    color: rgb(255, 102, 0);
+}
+
+.navbar.bg-light {
+    background-color: rgb(255, 240, 229) !important;
+}
+
+.card-title {
+    font-family: sans-serif
+}
+
+.card-text {
+    font-family: sans-serif
+}
+.card-img-overlay {
+    background: linear-gradient(to bottom,
+            rgba(255, 255, 255, 0.95) 0%,
+            rgba(255, 255, 255, 0.7) 5%,
+            rgba(255, 255, 255, 0) 100%);
+}
+.dropdown-menu{
+    background-color: rgb(255, 129, 45);
+}
+.btn {
+    color: rgb(255, 240, 229);
+    background-color: rgb(255, 102, 0);
+    font-family: sans-serif
+}
+.input-group { 
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.btn-outline-success {
+    background-color: rgb(255, 102, 0);
+}
+h1 {
+    padding-inline-start: 43px;
+    color: black;
+}
+.h1-divider {
+
+}
+.media {
+    width: 95%;
+    max-width: 1600px;
+    border-radius: 10px;
+    margin: 0 auto;
+    padding: 10px 20px;
+    background-color: rgb(255, 255, 255);
+}
+    
