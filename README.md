@@ -9,10 +9,6 @@ Notera: "." skrivs innan om det är en klass du vill påverka.
 
 Avsluta med ";" efter varje egenskap
 
-Exempel på hur detta kan se ut
-
-![Exempel på hur CSS kan skrivas](<Skärmavbild 2026-11-18 kl. 15.33.58.png>)
-
 ---
 Olika sätt att styla
 - Inline
