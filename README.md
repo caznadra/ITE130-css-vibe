@@ -50,4 +50,14 @@ Linked, CSS är en separat fil vid sidan av din HTML fil. Länkas i din "head" d
 ```
 <link rel="stylesheet" href="länk till mapp/fil">
 ````
+##
+### Några egenskaper 
+
+background-color;
+color;
+font-family;
+font-size;
+padding (left, right, top & bottom);
+paddin-inline-start;
+border-radius;
 
